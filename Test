@@ -4,4 +4,9 @@ web
 web
 linux
 br develop
+<<<<<<< HEAD
 master
+=======
+br develop2
+
+>>>>>>> develop
